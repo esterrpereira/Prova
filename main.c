@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void) {
-  //variavel
+  
   int pontos ;
 
   // entrada de dados
